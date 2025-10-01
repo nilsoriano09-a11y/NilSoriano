@@ -16,4 +16,4 @@ M'agrada l'esport🎳 i la tecnologia🔋
 - Ara mateix estic aprenent codi amb Github
 
 ## 📫 contacte
-[nil.soriano09@iesantpol.cat] 
+-[Email](nil.soriano09@iesantpol.cat) 
